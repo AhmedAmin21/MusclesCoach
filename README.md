@@ -47,7 +47,13 @@ Yes (Nutrition Agent)      No (Fitness Coach)
 Fetch Data from API        Generate Response using LLM
      |                         |
 Return AI Response to User
-
+```
 ---
 
-## Demo
+## Demo: Ask anything like:
+
+● "How much protein in 100g of chicken breast?"
+● "Suggest alternatives to rice with lower calories."
+● "What's the best workout to target shoulders?"
+● "Plan me a high-protein vegetarian meal."
+
