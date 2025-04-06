@@ -50,6 +50,28 @@ Return AI Response to User
 ```
 ---
 
+## How to Run Locally 💻
+
+1. Clone the repo  
+```bash
+git clone https://github.com/your-username/fitness-nutrition-chatbot.git
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Add your .env file
+```bash
+GROQ_API_KEY=your_key  
+NVIDIA_API_KEY=your_key  
+NINGA_API_KEY=your_key
+```
+4. Run the API
+```bash
+uvicorn main:app --reload
+```
+---
+
 ## Demo: Ask anything like:
 
 - "How much protein in 100g of chicken breast?"
