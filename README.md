@@ -60,3 +60,7 @@ Return AI Response to User
 ---
 
 ![1](images/q1.png)
+![2](images/q2.png)
+![3](images/q3.png)
+![4](images/q4.png)
+![5](images/q5.png)
