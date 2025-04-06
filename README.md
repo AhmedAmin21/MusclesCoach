@@ -57,3 +57,6 @@ Return AI Response to User
 - "What's the best workout to target shoulders?"
 - "Plan me a high-protein vegetarian meal"
 
+---
+
+![1](images/Screenshot2025-04-06222224.png)
