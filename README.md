@@ -72,6 +72,23 @@ uvicorn main:app --reload
 ```
 ---
 
+## API Usage 📲
+POST → /fitness-advice/
+
+Request:
+```json
+{
+  "query": "How much protein in 100g chicken?"
+}
+```
+Response:
+```json
+{
+  "response": "100g chicken breast contains approx 31g protein..."
+}
+```
+---
+
 ## Demo: Ask anything like:
 
 - "How much protein in 100g of chicken breast?"
